@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+ .card {
+  background-color: #F8F9FA;
+ }
+.card-img {
+  height: 180px;
+  background-position: center;
+  background-size: cover;
+}
