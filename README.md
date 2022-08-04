@@ -1,6 +1,6 @@
 # Rails learning progress
 
-ℹ️ This project's purpouse is to learn and practice the use of **Ruby on Rails**. This very simple project is a marketplace like application. It allows to create a flat, adding it's photo and description and displays all available flats on the index page. It also allows to edit a chosen flat and delete it.
+ℹ️ This project's purpose is to learn and practice the use of **Ruby on Rails**. This very simple project is a marketplace like application. It allows to create a flat, adding it's photo and description and displays all available flats on the index page. It also allows to edit a chosen flat and delete it.
 
 
 
