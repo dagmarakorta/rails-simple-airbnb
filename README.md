@@ -1,24 +1,17 @@
-# README
+# Rails learning progress
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ℹ️ This project's purpouse is to learn and practice the use of **Ruby on Rails**. This very simple project is a marketplace like application. It allows to create a flat, adding it's photo and description and displays all available flats on the index page. It also allows to edit a chosen flat and delete it.
 
-Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
+### 🔗 Source: [le Wagon Bootcamp](https://www.lewagon.com/)
 
-* Configuration
 
-* Database creation
 
-* Database initialization
+## 📖 Subjects covered: 
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- CRUD in Rails
+  - C - Creating a flat
+  - R - Enlisting or displaying flats
+  - U - Editing a flat
+  - D - Deleting a flat
